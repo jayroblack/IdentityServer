@@ -1,6 +1,10 @@
 # IdentityServer
 Development OAuth and OpenId using ASP.Net Core Identity &amp; Identity Server 4
 
+## Reading
+* [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio)
+* [Identity Server 4](http://docs.identityserver.io/en/latest/index.html)
+
 ## Why?
 My personal philosophy has always been that development should not require connection to the internet.  Granted we need the internet more than ever these days with the advent of modern package management, but this is usually an operation that is not performed every single time I am building and running my application.  Also a lot of common libraries are cached at a higher level that further mitigate this argument.  
 
